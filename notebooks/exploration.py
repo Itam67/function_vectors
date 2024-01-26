@@ -23,25 +23,48 @@ mean_activations = get_mean_head_activations(dataset, model, model_config, token
 
 FV, top_heads = compute_universal_function_vector(mean_activations, model, model_config, n_top_heads=10)
 # %%
-
 dataset = load_dataset('country-capital')
-word_pairs = dataset['train'][:5]
-test_pairs = dataset['test'][:5]
-
-zeroshot_prompt_data = word_pairs_to_prompt_data({'input':[], 'output':[]}, query_target_pair=test_pairs, prepend_bos_token=True, shuffle_labels=True)
-zeroshot_sentence = create_prompt(zeroshot_prompt_data)
-print("Zero-Shot Prompt:\n", repr(zeroshot_sentence))
+test_pairs = dataset['test'][:]
+print("here")
 #breakpoint()
-total_diffs = []
-for i in range(len(test_pairs['input'])):
-    diffs = []
-    for EDIT_LAYER in [x for x in range(0,25)]:
+# total_diffs = []
+accs = []
+for EDIT_LAYER in range(0,25):
+    accuracy = 0
+
+    for i in range(len(test_pairs['input'])):
+        # diffs = []
         test_pair = [test_pairs['input'][i], test_pairs['output'][i]]
+        test_pair_dict = {'input': test_pair[0], 'output': test_pair[1]}
+        zeroshot_prompt_data = word_pairs_to_prompt_data({'input':[], 'output':[]}, query_target_pair=test_pair_dict, prepend_bos_token=True, shuffle_labels=True)
+        zeroshot_sentence = create_prompt(zeroshot_prompt_data)
+
+        
         # Intervention on the zero-shot prompt
         clean_logits, interv_logits = function_vector_intervention(zeroshot_sentence, [test_pair[1]], EDIT_LAYER, FV, model, model_config, tokenizer)
        # breakpoint()
-        index = tokenizer(test_pair[1])['input_ids'][0]
-        diffs.append((interv_logits[0][index]-clean_logits[0][index]).cpu().item())
-    plt.plot(diffs)
-    total_diffs.append(diffs)
+        index = tokenizer(' '+test_pair[1])['input_ids'][0]
+        # diffs.append(((interv_logits[0][index]-clean_logits[0][index])/clean_logits[0][index]).cpu().item())
+        # breakpoint()
+        # print(tokenizer.decode(interv_logits[0].argmax()), 
+            #   tokenizer.decode(index),
+            #   interv_logits[0].argmax().item()==index)
+        if interv_logits[0].argmax().item()==index:
+            print("here")
+            accuracy+=1
+        
+    # plt.plot(diffs)
+    # total_diffs.append(diffs)
+    accs.append(accuracy/len(test_pairs['input']))
+plt.title("Country-Capital FV Interventions")
+plt.plot(accs)
+plt.xlabel('Intervention Layer')
+plt.ylabel('Accuracy Across All Prompts')
+plt.savefig('acc.png')
+plt.figure()
+# plt.plot(np.array(total_diffs).mean(axis=0))
+# plt.xlabel('Intervention Layer')
+# plt.ylabel('% Change in logit for correct token at last layer')
+# plt.savefig('averaged.png')
+
 breakpoint()
