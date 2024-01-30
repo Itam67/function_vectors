@@ -2,6 +2,7 @@ from baukit import TraceDict, get_module
 import torch
 import re
 import bitsandbytes as bnb
+from einops import einsum
 
 def get_module(model, name):
     """
@@ -92,7 +93,19 @@ def replace_activation_w_avg(layer_head_token_pairs, avg_activations, model, mod
 
     return rep_act
 
-def add_function_vector(edit_layer, fv_vector, device, idx=-1):
+
+
+def project_vocab(output, layer, target, model):
+    vocab_proj = einsum(output, model.lm_head.weight.T, "batch d_model, d_model d_vocab -> batch d_vocab")
+    probs = vocab_proj.softmax(dim=-1)
+    sorted_distribution = probs.sort(descending=True).indices
+    pos=torch.where(sorted_distribution[0]==target)[0].item()
+    
+    print(f"---------------------{layer}---------------------")
+    print(f"At Layer {layer}, target pos: {pos}")
+
+
+def add_function_vector(edit_layer, target_tkn, fv_vector, model, device, idx=-1):
     """
     Adds a vector to the output of a specified layer in the model
 
@@ -110,10 +123,12 @@ def add_function_vector(edit_layer, fv_vector, device, idx=-1):
         if current_layer == edit_layer:
             if isinstance(output, tuple):
                 output[0][:, idx] += fv_vector.to(device)
+                project_vocab(output[0][:,idx], current_layer, target_tkn, model) 
                 return output
             else:
                 return output
         else:
+            project_vocab(output[0][:,idx],current_layer, target_tkn, model)
             return output
 
     return add_act
@@ -160,8 +175,11 @@ def function_vector_intervention(sentence, target, edit_layer, function_vector, 
     else:
         clean_output = model(**inputs).logits[:,-1,:]
 
+    # Get target tokenization
+    target_tkn = tokenizer(' '+target)['input_ids'][0]
+
     # Perform Intervention
-    intervention_fn = add_function_vector(edit_layer, function_vector.reshape(1, model_config['resid_dim']), model.device)
+    intervention_fn = add_function_vector(edit_layer, target_tkn, function_vector.reshape(1, model_config['resid_dim']), model,  model.device)
     with TraceDict(model, layers=model_config['layer_hook_names'], edit_output=intervention_fn):     
         if compute_nll:
             output = model(**nll_inputs, labels=nll_targets)
