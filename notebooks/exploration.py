@@ -2,6 +2,8 @@ import os, re, json
 import torch, numpy as np
 import sys
 import matplotlib.pyplot as plt
+sys.path.append('..')
+
 from src.utils.extract_utils import get_mean_head_activations, compute_universal_function_vector
 from src.utils.intervention_utils import fv_intervention_natural_text, function_vector_intervention
 from src.utils.model_utils import load_gpt_model_and_tokenizer
@@ -9,19 +11,21 @@ from src.utils.prompt_utils import load_dataset, word_pairs_to_prompt_data, crea
 from src.utils.eval_utils import decode_to_vocab, sentence_eval
 import torch.nn.functional as F
 
-sys.path.append('..')
 torch.set_grad_enabled(False)
 # %%
 
 # Loading the model data and FV
 model_name = 'EleutherAI/gpt-j-6b'
-model, tokenizer, model_config = load_gpt_model_and_tokenizer(model_name)
+model, tokenizer, model_config = load_gpt_model_and_tokenizer("llama-7b")
 
 dataset = load_dataset('capitalize', seed=0)
 
 mean_activations = get_mean_head_activations(dataset, model, model_config, tokenizer)
 
 FV, top_heads = compute_universal_function_vector(mean_activations, model, model_config, n_top_heads=10)
+
+# Save FV
+np.save("Antonym_FV.npy", FV.numpy())
 
 breakpoint()
 # %%

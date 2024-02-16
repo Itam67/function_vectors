@@ -1,0 +1,1056 @@
+Prompt: ['</s>', '</s>', '</s>', '</s>', '<s>', 'valid', ':'] Answer: ['invalid']
+_____Prompt 0, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 0, component: 0_mid_____
+['Архив', 'Außer', 'Censo', 'Bedeut', 'totalité', 'idense', '雅', 'férences', 'Portail', 'пута']
+_____Prompt 0, component: 1_pre_____
+['Архив', 'Portail', 'пута', 'Kontrola', 'archivi', 'idense', '瀬', '雅', 'embros', 'partiellement']
+_____Prompt 0, component: 1_mid_____
+['<s>', 'Хронологија', 'Portail', 'Архив', 'Kontrola', 'Unterscheidung', 'Bedeut', 'totalité', 'idense', 'Außer']
+_____Prompt 0, component: 2_pre_____
+['<s>', 'idense', 'Außer', 'Bedeut', 'Portail', 'Hinweis', 'äler', 'Kontrola', 'Hö', 'nahm']
+_____Prompt 0, component: 2_mid_____
+['Hinweis', 'istre', 'Bedeut', 'сторія', 'blatt', 'ht', 'Selon', '<s>', 'gem', 'дія']
+_____Prompt 0, component: 3_pre_____
+['cord', 'дія', 'Hinweis', 'Einzeln', 'Bedeut', 'Hö', 'demselben', 'red', 'Selon', 'jsp']
+_____Prompt 0, component: 3_mid_____
+['Hinweis', 'Bedeut', 'Einzeln', 'дія', 'Begriffe', 'cord', 'lär', 'Hö', 'hed', 'ῆ']
+_____Prompt 0, component: 4_pre_____
+['Hinweis', 'Bedeut', '州', 'дія', 'hed', 'iras', 'Selon', 'sept', 'pit', 'rum']
+_____Prompt 0, component: 4_mid_____
+['дія', 'Hinweis', '州', 'sept', 'hed', 'Lng', 'rum', 'rum', 'ówn', 'Sv']
+_____Prompt 0, component: 5_pre_____
+['Hinweis', 'hed', 'iate', 'ruby', 'volta', 'дія', 'pit', 'fried', 'over', 'istre']
+_____Prompt 0, component: 5_mid_____
+['ruby', 'cko', 'Hinweis', 'hed', 'gem', 'éric', 'stick', 'iate', 'volta', 'aft']
+_____Prompt 0, component: 6_pre_____
+['↔', 'dzie', 'TL', 'Toggle', 'ография', 'aft', 'шов', 'hov', 'invece', 'ugins']
+_____Prompt 0, component: 6_mid_____
+['↔', 'TL', 'Toggle', 'шов', 'hov', 'ugins', 'ография', 'dzie', 'aft', 'огра']
+_____Prompt 0, component: 7_pre_____
+['↔', 'TL', 'Toggle', 'AX', 'others', 'hov', 'dzie', 'AF', 'тура', 'ugins']
+_____Prompt 0, component: 7_mid_____
+['TL', 'AX', '↔', 'Toggle', 'TI', 'hov', 'legte', 'oem', 'AF', 'Down']
+_____Prompt 0, component: 8_pre_____
+['TL', '↔', 'AX', 'Toggle', '},{', '<s>', 'TI', 'others', 'None', 'asto']
+_____Prompt 0, component: 8_mid_____
+['TL', '↔', '<s>', 'Toggle', '},{', 'AX', 'others', 'TI', 'legte', 'oem']
+_____Prompt 0, component: 9_pre_____
+['Toggle', '<s>', 'TL', '↔', 'TI', 'ós', 'örd', '},{', 'hov', 'AX']
+_____Prompt 0, component: 9_mid_____
+['Toggle', '<s>', 'TL', 'TI', 'ós', '↔', 'AX', 'örd', 'legte', 'лем']
+_____Prompt 0, component: 10_pre_____
+['Toggle', 'ós', 'toe', 'лем', 'ask', 'TI', '<s>', 'üll', 'abb', 'abei']
+_____Prompt 0, component: 10_mid_____
+['Toggle', 'ós', 'toe', '<s>', 'üll', 'лем', 'ask', 'abb', 'legte', 'abei']
+_____Prompt 0, component: 11_pre_____
+['Toggle', 'ós', 'toe', 'legte', 'лем', 'AND', 'TI', 'abb', 'hod', 'AF']
+_____Prompt 0, component: 11_mid_____
+['Toggle', 'toe', 'ós', 'legte', 'hood', 'AF', 'abb', '·', '⋅', 'porte']
+_____Prompt 0, component: 12_pre_____
+['ós', 'Toggle', 'лем', '·', 'Hend', 'abb', 'Sent', 'igen', '∙', 'mehrerer']
+_____Prompt 0, component: 12_mid_____
+['ós', '·', 'Hend', 'igen', 'лем', 'Sent', 'Toggle', 'mehrerer', 'porte', 'toe']
+_____Prompt 0, component: 13_pre_____
+['igen', '·', '➜', 'ós', 'gan', 'Lit', 'quot', 'ab', 'abb', 'aba']
+_____Prompt 0, component: 13_mid_____
+['·', 'igen', 'porte', 'aba', '沙', 'gan', 'patch', 'fir', 'Ptr', 'Vector']
+_____Prompt 0, component: 14_pre_____
+['∙', '·', '序', 'igen', '➜', 'evidence', 'gan', 'TL', 'Timeout', 'fir']
+_____Prompt 0, component: 14_mid_____
+['∙', '·', 'gan', 'Timeout', 'evidence', 'PN', 'abb', 'Licencia', 'igen', 'fir']
+_____Prompt 0, component: 15_pre_____
+['penas', 'widet', 'TL', 'Licencia', '유', '否', 'evidence', 'eps', 'pez', 'PN']
+_____Prompt 0, component: 15_mid_____
+['invalid', 'evidence', 'penas', '否', 'PN', 'proof', 'invalid', '유', 'Außer', 'Hook']
+_____Prompt 0, component: 16_pre_____
+['invalid', '否', 'penas', 'Bedeut', 'widet', 'evidence', '유', 'invalid', 'PN', 'Licencia']
+_____Prompt 0, component: 16_mid_____
+['invalid', '否', 'invalid', 'penas', 'evidence', 'false', '·', 'widet', '유', 'PN']
+_____Prompt 0, component: 17_pre_____
+['invalid', '·', '否', 'widet', 'meaning', 'PN', 'invalid', 'Außer', 'AVA', 'ˈ']
+_____Prompt 0, component: 17_mid_____
+['invalid', 'VAL', 'valid', 'invalid', '·', 'Invalid', 'AVA', 'null', 'val', 'widet']
+_____Prompt 0, component: 18_pre_____
+['invalid', 'VAL', 'valid', 'invalid', 'Invalid', 'Valid', 'null', 'ˈ', 'AVA', '·']
+_____Prompt 0, component: 18_mid_____
+['invalid', '·', 'invalid', 'Invalid', 'valid', 'ˈ', 'VAL', 'terre', 'fruit', 'Хронологија']
+_____Prompt 0, component: 19_pre_____
+['invalid', '·', 'invalid', 'ˈ', 'Invalid', 'valid', 'Хронологија', 'widet', 'VAL', 'raum']
+_____Prompt 0, component: 19_mid_____
+['invalid', 'invalid', 'AVA', 'VAL', 'valid', 'Invalid', 'Хронологија', '·', 'ˈ', 'alive']
+_____Prompt 0, component: 20_pre_____
+['invalid', 'valid', 'Хронологија', 'VAL', 'invalid', 'Invalid', 'false', 'ˈ', '·', 'alive']
+_____Prompt 0, component: 20_mid_____
+['invalid', 'valid', 'invalid', 'VAL', 'Invalid', 'Valid', 'Invalid', 'valid', 'void', 'null']
+_____Prompt 0, component: 21_pre_____
+['invalid', 'valid', 'invalid', 'Invalid', 'VAL', 'Valid', 'Invalid', 'void', 'null', 'false']
+_____Prompt 0, component: 21_mid_____
+['invalid', 'valid', 'invalid', 'VAL', 'Invalid', 'Invalid', 'Valid', 'void', 'null', 'false']
+_____Prompt 0, component: 22_pre_____
+['invalid', 'valid', 'invalid', 'Invalid', 'VAL', 'Valid', 'Invalid', 'void', 'null', 'false']
+_____Prompt 0, component: 22_mid_____
+['invalid', 'invalid', 'valid', 'Invalid', 'Invalid', 'Valid', 'VAL', 'void', 'valid', 'false']
+_____Prompt 0, component: 23_pre_____
+['invalid', 'invalid', 'valid', 'Invalid', 'Invalid', 'Valid', 'void', 'VAL', 'null', 'valid']
+_____Prompt 0, component: 23_mid_____
+['invalid', 'invalid', 'Invalid', 'valid', 'Invalid', 'void', 'Valid', 'null', 'false', 'valid']
+_____Prompt 0, component: 24_pre_____
+['invalid', 'invalid', 'Invalid', 'valid', 'Invalid', 'void', 'Valid', 'null', 'valid', 'false']
+_____Prompt 0, component: 24_mid_____
+['invalid', 'invalid', 'Invalid', 'valid', 'Invalid', 'void', 'null', 'Valid', 'false', 'valid']
+_____Prompt 0, component: 25_pre_____
+['invalid', 'invalid', 'Invalid', 'valid', 'Invalid', 'void', 'null', 'Valid', 'false', 'VAL']
+_____Prompt 0, component: 25_mid_____
+['invalid', 'invalid', 'Invalid', 'valid', 'Invalid', 'void', 'null', 'Valid', 'false', 'valid']
+_____Prompt 0, component: 26_pre_____
+['invalid', 'Invalid', 'invalid', 'void', 'Invalid', 'false', 'null', 'valid', 'bog', 'void']
+_____Prompt 0, component: 26_mid_____
+['invalid', 'Invalid', 'invalid', 'void', 'Invalid', 'false', 'null', 'valid', 'void', 'bog']
+_____Prompt 0, component: 27_pre_____
+['invalid', 'void', 'Invalid', 'invalid', 'null', 'Invalid', 'false', 'valid', 'void', 'bog']
+_____Prompt 0, component: 27_mid_____
+['invalid', 'void', 'Invalid', 'invalid', 'null', 'Invalid', 'false', 'valid', 'void', 'true']
+_____Prompt 0, component: 28_pre_____
+['invalid', 'void', 'Invalid', 'invalid', 'false', 'null', 'Invalid', 'true', 'void', 'meaning']
+_____Prompt 0, component: 28_mid_____
+['invalid', 'void', 'false', 'null', 'invalid', 'Invalid', 'defect', 'true', 'fault', 'void']
+_____Prompt 0, component: 29_pre_____
+['invalid', 'void', 'false', 'Invalid', 'null', 'invalid', 'fault', 'defect', 'true', 'meaning']
+_____Prompt 0, component: 29_mid_____
+['invalid', 'void', 'false', 'null', 'Invalid', 'fault', 'invalid', 'true', 'defect', 'meaning']
+_____Prompt 0, component: 30_pre_____
+['invalid', 'void', 'false', 'null', 'Invalid', 'true', 'defect', 'invalid', 'sound', 'meaning']
+_____Prompt 0, component: 30_mid_____
+['invalid', 'void', 'false', 'null', 'true', 'defect', 'Invalid', 'not', 'sound', 'invalid']
+_____Prompt 0, component: 31_pre_____
+['invalid', 'void', 'not', '', 'true', 'f', 'false', 'null', 'The', 'in']
+_____Prompt 0, component: 31_mid_____
+['invalid', 'void', '', 'not', 'false', 'null', 'true', 'f', '\n', 'The']
+_____Prompt 0, component: final_post_____
+['invalid', '', 'void', 'false', 'null', 'not', 'Invalid', '\n', 'illegal', 'in']
+_________________________________________
+Prompt: ['</s>', '</s>', '</s>', '<s>', 'un', 'related', ':'] Answer: ['related']
+_____Prompt 1, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 1, component: 0_mid_____
+['Bedeut', 'Хронологија', 'Архив', 'Außer', 'Portail', 'Censo', '雅', 'idense', 'totalité', 'пута']
+_____Prompt 1, component: 1_pre_____
+['Portail', 'Архив', 'пута', 'archivi', 'Kontrola', '瀬', 'embros', '雅', 'Хронологија', 'idense']
+_____Prompt 1, component: 1_mid_____
+['<s>', 'Portail', 'Bedeut', 'Хронологија', 'Außer', 'Архив', 'Hinweis', 'Kontrola', 'ță', 'idense']
+_____Prompt 1, component: 2_pre_____
+['<s>', 'Außer', 'Bedeut', 'Portail', 'Хронологија', 'idense', 'prüfe', 'Hinweis', 'Kontrola', 'sterd']
+_____Prompt 1, component: 2_mid_____
+['Bedeut', 'Kontrola', 'Хронологија', 'Portail', '<s>', 'Hinweis', 'prüfe', 'idense', 'eerd', 'ță']
+_____Prompt 1, component: 3_pre_____
+['Bedeut', 'lär', 'Хронологија', 'eerd', 'ijst', 'idense', 'iono', 'iszt', 'prüfe', 'ље']
+_____Prompt 1, component: 3_mid_____
+['Bedeut', 'lär', 'ijst', 'idense', 'Hinweis', 'шин', 'iono', 'Einzeln', 'eerd', 'legte']
+_____Prompt 1, component: 4_pre_____
+['Bedeut', 'шин', 'lär', 'Hinweis', 'clock', 'Außer', 'orten', 'stuff', 'führ', '�']
+_____Prompt 1, component: 4_mid_____
+['hex', 'ppo', 'stuff', 'Bedeut', 'clock', 'шин', 'häng', 'ired', 'igg', 'stylesheet']
+_____Prompt 1, component: 5_pre_____
+['шин', 'clock', 'thumb', 'stuff', 'Hinweis', 'Bedeut', 'roof', 'stylesheet', 'irc', 'hex']
+_____Prompt 1, component: 5_mid_____
+['clock', 'Bedeut', 'thumb', 'stuff', 'ɨ', 'alt', 'iso', 'roof', 'Hinweis', 'Ot']
+_____Prompt 1, component: 6_pre_____
+['↔', 'шов', 'ask', 'TL', 'alet', 'AX', 'Toggle', 'Rés', 'invece', 'ография']
+_____Prompt 1, component: 6_mid_____
+['↔', 'TL', 'ask', 'aku', 'шов', 'alet', 'Toggle', 'ск', 'ография', 'abb']
+_____Prompt 1, component: 7_pre_____
+['↔', 'TL', 'ask', 'Toggle', 'alet', 'AX', 'abe', 'шов', 'aku', 'ск']
+_____Prompt 1, component: 7_mid_____
+['↔', 'TL', 'ask', 'abe', 'Toggle', 'uto', 'ография', '♀', 'AX', 'шов']
+_____Prompt 1, component: 8_pre_____
+['↔', 'ask', 'abe', 'TL', 'ʌ', 'Toggle', 'AX', 'kwiet', 'alet', 'abb']
+_____Prompt 1, component: 8_mid_____
+['↔', 'ask', 'abe', 'ʌ', 'Toggle', 'TL', 'kwiet', 'porte', '♀', 'alet']
+_____Prompt 1, component: 9_pre_____
+['↔', 'ask', 'abe', 'TL', 'Toggle', 'ография', '❯', 'abb', 'üll', 'в']
+_____Prompt 1, component: 9_mid_____
+['↔', 'abe', 'ask', 'TL', 'Toggle', '♀', 'abei', 'porte', 'üll', 'cola']
+_____Prompt 1, component: 10_pre_____
+['abei', '↔', 'кан', 'ask', '属', 'abe', 'став', 'abb', 'Toggle', '<s>']
+_____Prompt 1, component: 10_mid_____
+['abei', '↔', 'ask', 'став', 'abe', 'keit', 'Toggle', 'кан', 'ATE', 'nim']
+_____Prompt 1, component: 11_pre_____
+['abei', '<s>', 'porte', 'став', 'AB', 'meaning', 'ˈ', 'ommun', 'Intent', 'Ring']
+_____Prompt 1, component: 11_mid_____
+['abei', 'porte', '<s>', 'meaning', 'став', 'AB', 'ˈ', 'abe', 'Toggle', 'Ring']
+_____Prompt 1, component: 12_pre_____
+['abei', 'abase', 'Hend', 'porte', 'кан', 'Распо', 'Ring', 'лё', 'ˈ', 'ommun']
+_____Prompt 1, component: 12_mid_____
+['abei', 'porte', 'abase', 'Hend', 'лё', 'Распо', 'avas', 'ˈ', 'кан', 'Ring']
+_____Prompt 1, component: 13_pre_____
+['porte', 'abei', 'abe', 'Ring', 'abase', 'ˈ', 'mouse', 'NN', 'oem', '·']
+_____Prompt 1, component: 13_mid_____
+['porte', 'abei', 'ˈ', 'Bedeut', 'mouse', 'embly', 'Ring', 'tang', 'abase', 'epen']
+_____Prompt 1, component: 14_pre_____
+['porte', 'abei', 'Bedeut', 'nitt', 'mouse', '序', 'oll', 'Unterscheidung', 'нина', 'None']
+_____Prompt 1, component: 14_mid_____
+['abei', 'porte', 'nitt', 'ķ', 'None', 'mult', 'ˈ', 'Ring', 'random', 'Bedeut']
+_____Prompt 1, component: 15_pre_____
+['abei', 'Ot', 'None', 'empor', 'nitt', 'ん', 'porte', 'став', 'none', '˚']
+_____Prompt 1, component: 15_mid_____
+['abei', 'став', 'None', 'random', 'none', 'Bedeut', 'ķ', 'Wiener', 'hij', 'irrelevant']
+_____Prompt 1, component: 16_pre_____
+['Bedeut', 'Ot', 'None', 'abei', 'random', 'none', 'ós', 'ķ', 'Wiener', 'ot']
+_____Prompt 1, component: 16_mid_____
+['Ot', 'ós', 'Bedeut', 'ambiguation', 'ˈ', 'ķ', 'ん', '#(', 'hören', 'Ring']
+_____Prompt 1, component: 17_pre_____
+['ˈ', 'but', 'ós', 'sí', 'спо', 'ependant', 'ambiguation', 'rinn', 'brázky', 'Bedeut']
+_____Prompt 1, component: 17_mid_____
+['ˈ', 'related', 'спо', 'brázky', 'rinn', 'sí', 'Bedeut', 'ós', 'Ring', 'related']
+_____Prompt 1, component: 18_pre_____
+['ˈ', 'Portail', 'rinn', 'related', 'спо', 'Bedeut', 'igkeiten', 'Licencia', 'ju', 'character']
+_____Prompt 1, component: 18_mid_____
+['ˈ', 'rinn', 'related', 'спо', 'Bedeut', 'related', 'öt', 'brázky', 'igkeiten', 'Licencia']
+_____Prompt 1, component: 19_pre_____
+['ˈ', 'спо', 'Portail', 'Licencia', 'related', 'igkeiten', 'Kontrola', 'brázky', 'related', 'Ot']
+_____Prompt 1, component: 19_mid_____
+['related', 'related', 'relevant', 'Kontrola', 'спо', 'random', 'brázky', 'random', 'ˈ', 'igkeiten']
+_____Prompt 1, component: 20_pre_____
+['related', 'related', 'Kontrola', 'Portail', 'Хронологија', 'Licencia', 'ˈ', 'random', 'relevant', 'random']
+_____Prompt 1, component: 20_mid_____
+['related', 'related', 'Kontrola', 'random', 'random', 'Portail', 'relevant', 'ˈ', 'brázky', 'Licencia']
+_____Prompt 1, component: 21_pre_____
+['related', 'related', 'Kontrola', 'Licencia', 'relevant', 'ˈ', 'brázky', 'Portail', 'random', 'igkeiten']
+_____Prompt 1, component: 21_mid_____
+['related', 'related', 'relation', 'Kontrola', 'relate', 'Хронологија', 'Licencia', 'Portail', 'brázky', 'relacion']
+_____Prompt 1, component: 22_pre_____
+['related', 'related', 'Kontrola', 'Хронологија', 'brázky', 'relation', 'Licencia', 'random', 'Portail', 'relate']
+_____Prompt 1, component: 22_mid_____
+['related', 'related', 'Kontrola', 'Хронологија', 'brázky', 'relation', 'Licencia', 'random', 'Portail', 'archivi']
+_____Prompt 1, component: 23_pre_____
+['related', 'related', 'Kontrola', 'Хронологија', 'random', 'brázky', 'Licencia', 'relation', 'Portail', 'random']
+_____Prompt 1, component: 23_mid_____
+['related', 'related', 'relevant', 'irrelevant', 'Kontrola', 'random', 'relacion', 'Хронологија', 'brázky', '関']
+_____Prompt 1, component: 24_pre_____
+['related', 'related', 'relevant', 'irrelevant', 'random', 'Kontrola', 'relacion', 'brázky', 'relate', '関']
+_____Prompt 1, component: 24_mid_____
+['related', 'related', 'relevant', 'random', 'Kontrola', 'irrelevant', 'relacion', 'Хронологија', 'random', 'brázky']
+_____Prompt 1, component: 25_pre_____
+['related', 'related', 'random', 'Kontrola', 'relevant', 'Хронологија', 'irrelevant', 'random', 'relacion', 'Licencia']
+_____Prompt 1, component: 25_mid_____
+['related', 'related', 'random', 'Kontrola', 'relevant', 'irrelevant', 'Хронологија', 'random', 'relacion', 'partiellement']
+_____Prompt 1, component: 26_pre_____
+['related', 'related', 'relevant', 'random', 'Kontrola', 'irrelevant', 'relacion', '関', 'Хронологија', 'random']
+_____Prompt 1, component: 26_mid_____
+['related', 'related', 'relevant', 'random', 'Kontrola', 'irrelevant', 'relacion', 'Хронологија', 'random', 'connected']
+_____Prompt 1, component: 27_pre_____
+['related', 'related', 'relevant', 'Kontrola', 'random', 'relacion', 'Хронологија', 'irrelevant', 'Licencia', 'Rel']
+_____Prompt 1, component: 27_mid_____
+['related', 'related', 'relevant', 'Kontrola', 'random', 'Хронологија', 'relacion', 'irrelevant', 'connected', 'Licencia']
+_____Prompt 1, component: 28_pre_____
+['related', 'related', 'relevant', 'random', 'Kontrola', 'irrelevant', 'partiellement', 'tang', 'connected', 'un']
+_____Prompt 1, component: 28_mid_____
+['related', 'related', 'relevant', 'random', 'irrelevant', 'Kontrola', 'tang', 'partiellement', 'connected', 'random']
+_____Prompt 1, component: 29_pre_____
+['related', 'related', 'relevant', 'random', 'connected', 'Rel', 'tang', 'irrelevant', 'Kontrola', 'partiellement']
+_____Prompt 1, component: 29_mid_____
+['related', 'related', 'relevant', 'random', 'connected', 'Rel', 'tang', 'irrelevant', 'Kontrola', 'partiellement']
+_____Prompt 1, component: 30_pre_____
+['related', 'related', 'relevant', 'random', 'connected', 'Rel', 'tang', 'un', 'irrelevant', 'Kontrola']
+_____Prompt 1, component: 30_mid_____
+['related', 'related', 'relevant', 'random', 'connected', 'Rel', 'un', 'tang', 'irrelevant', 'partiellement']
+_____Prompt 1, component: 31_pre_____
+['related', 'related', 'I', 'un', 'relevant', '\n', 'Rel', 'i', 'the', 'The']
+_____Prompt 1, component: 31_mid_____
+['related', 'related', 'I', '\n', 'relevant', 'Rel', 'i', 'the', 'un', 'The']
+_____Prompt 1, component: final_post_____
+['related', 'I', '\n', 'the', 'a', '', 'The', 'this', 'i', 'but']
+_________________________________________
+Prompt: ['</s>', '</s>', '</s>', '</s>', '<s>', 'difficult', ':'] Answer: ['easy']
+_____Prompt 2, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 2, component: 0_mid_____
+['Архив', 'Censo', 'Außer', 'Bedeut', 'idense', 'Хронологија', 'пута', 'totalité', 'férences', '雅']
+_____Prompt 2, component: 1_pre_____
+['Архив', 'пута', 'Portail', 'Kontrola', 'archivi', 'Хронологија', 'idense', '瀬', 'embros', '雅']
+_____Prompt 2, component: 1_mid_____
+['<s>', 'Хронологија', 'Portail', 'Bedeut', 'Архив', 'Außer', 'Hinweis', 'idense', 'eerd', 'Unterscheidung']
+_____Prompt 2, component: 2_pre_____
+['<s>', 'Außer', 'Bedeut', 'Хронологија', 'idense', 'mbH', 'ță', 'Portail', 'prüfe', 'bore']
+_____Prompt 2, component: 2_mid_____
+['Хронологија', '<s>', 'Hinweis', 'Bedeut', 'Einzeln', 'entferne', 'prüfe', 'listade', 'lär', 'Begriffe']
+_____Prompt 2, component: 3_pre_____
+['lär', 'Bedeut', 'hina', 'endo', 'prüfe', 'Einzeln', 'maste', 'Хронологија', 'eerd', 'iszt']
+_____Prompt 2, component: 3_mid_____
+['lär', 'Bedeut', 'Einzeln', 'hina', 'Hinweis', '<s>', 'endo', 'ѐ', 'Hö', 'prüfe']
+_____Prompt 2, component: 4_pre_____
+['lär', 'Außer', 'orten', 'Hö', 'enario', 'pit', 'Clement', 'рез', 'endo', 'Pit']
+_____Prompt 2, component: 4_mid_____
+['hina', 'Clement', 'lär', 'shell', 'pie', 'Außer', 'enario', 'agt', 'whis', 'Hö']
+_____Prompt 2, component: 5_pre_____
+['enario', 'Ho', 'pie', 'Hö', 'thumb', 'pos', 'lament', 'innen', 'hina', '·']
+_____Prompt 2, component: 5_mid_____
+['Ho', 'Kingdom', 'Ét', 'фі', 'lament', 'enario', 'hina', 'pos', '\u200a', 'innen']
+_____Prompt 2, component: 6_pre_____
+['↔', 'шов', 'Toggle', 'dzie', 'ask', 'TD', 'огра', 'AX', 'hov', 'TL']
+_____Prompt 2, component: 6_mid_____
+['↔', 'ask', 'Toggle', 'TL', 'osed', 'kwiet', 'ск', 'шов', 'AX', 'hov']
+_____Prompt 2, component: 7_pre_____
+['↔', 'AX', 'Toggle', 'ask', 'osed', 'TD', 'ск', 'Ξ', 'ξ', 'TL']
+_____Prompt 2, component: 7_mid_____
+['↔', 'ask', 'AX', 'Toggle', 'ξ', 'TD', 'osed', 'Ξ', 'hov', 'legte']
+_____Prompt 2, component: 8_pre_____
+['↔', 'ask', 'ós', 'AX', 'osed', 'Toggle', 'asto', '·', 'opf', 'ξ']
+_____Prompt 2, component: 8_mid_____
+['↔', 'ós', 'ask', 'Toggle', '❯', 'AX', '·', 'ξ', 'Ξ', 'osed']
+_____Prompt 2, component: 9_pre_____
+['↔', '❯', 'ós', '➜', '┌', 'keit', 'ask', 'Toggle', 'opf', 'ξ']
+_____Prompt 2, component: 9_mid_____
+['↔', 'keit', 'ós', 'ξ', '┌', '❯', 'opf', 'Toggle', 'breast', '➜']
+_____Prompt 2, component: 10_pre_____
+['ós', '↔', '❯', 'АН', 'üll', 'opf', '➜', '<s>', '候', 'ξ']
+_____Prompt 2, component: 10_mid_____
+['ós', '❯', 'üll', '↔', 'АН', '<s>', 'ˈ', 'hinaus', '➜', 'legte']
+_____Prompt 2, component: 11_pre_____
+['ós', '<s>', '➜', '❯', 'вати', 'ˈ', 'opf', 'arrib', 'ξ', 'abb']
+_____Prompt 2, component: 11_mid_____
+['ós', '<s>', '➜', 'opf', 'ˈ', 'arrib', 'вати', 'abb', '❯', '장']
+_____Prompt 2, component: 12_pre_____
+['➜', '❯', 'Asp', 'Sent', 'ˈ', 'opf', 'ós', 'fra', '·', '้']
+_____Prompt 2, component: 12_mid_____
+['➜', '❯', 'ˈ', 'Asp', 'Sent', '序', 'ós', 'fra', 'widet', '·']
+_____Prompt 2, component: 13_pre_____
+['➜', 'igen', '้', '❯', '·', 'quot', 'ˈ', '序', 'fra', 'medium']
+_____Prompt 2, component: 13_mid_____
+['igen', '➜', '้', 'ˈ', '序', 'fra', 'medium', '·', 'quot', 'pez']
+_____Prompt 2, component: 14_pre_____
+['序', '➜', '้', 'fra', 'ˈ', 'igen', 'fra', 'Asp', 'ente', 'hinaus']
+_____Prompt 2, component: 14_mid_____
+['easy', '序', 'medium', 'ˈ', 'fat', '➜', 'fra', '·', '∙', 'Asp']
+_____Prompt 2, component: 15_pre_____
+['ˈ', 'easy', 'medium', 'fine', 'widet', '┌', '➜', 'rite', '∙', '유']
+_____Prompt 2, component: 15_mid_____
+['medium', 'easy', 'ˈ', 'widet', 'fine', 'fra', 'TAG', 'api', 'amente', 'medium']
+_____Prompt 2, component: 16_pre_____
+['widet', 'medium', 'ˈ', 'fine', '➜', '·', 'easy', 'Handle', 'opf', 'rite']
+_____Prompt 2, component: 16_mid_____
+['widet', 'medium', 'easy', 'ˈ', '·', 'fine', 'fruit', 'Handle', 'Dum', 'api']
+_____Prompt 2, component: 17_pre_____
+['easy', 'ˈ', 'widet', '·', 'medium', 'Ét', 'easier', 'feas', '∙', 'fruit']
+_____Prompt 2, component: 17_mid_____
+['easy', 'ˈ', 'widet', '·', 'difficult', 'Ét', 'TAG', 'medium', 'disambiguation', 'easier']
+_____Prompt 2, component: 18_pre_____
+['easy', 'ˈ', '·', 'multicol', 'disambiguation', 'difficult', 'widet', 'fruit', 'ˌ', 'feas']
+_____Prompt 2, component: 18_mid_____
+['easy', 'ˈ', '·', 'fruit', 'multicol', 'impossible', 'feas', 'disambiguation', 'easier', 'widet']
+_____Prompt 2, component: 19_pre_____
+['easy', 'ˈ', 'impossible', '·', 'iente', 'easier', 'widet', 'fruit', 'ˌ', 'feas']
+_____Prompt 2, component: 19_mid_____
+['easy', 'ˈ', 'impossible', '·', 'easier', 'iente', 'widet', 'feas', 'ˌ', 'fruit']
+_____Prompt 2, component: 20_pre_____
+['impossible', 'easy', 'feas', 'ˈ', 'easier', 'iente', 'possible', '·', 'trivial', 'possible']
+_____Prompt 2, component: 20_mid_____
+['easy', 'easier', 'impossible', 'difficult', 'difficulty', 'easiest', 'ease', 'Diff', 'diff', 'eas']
+_____Prompt 2, component: 21_pre_____
+['easy', 'difficult', 'impossible', 'easier', 'diff', 'difficulty', 'Diff', 'easiest', 'ease', 'eas']
+_____Prompt 2, component: 21_mid_____
+['easy', 'difficult', 'impossible', 'easier', 'diff', 'difficulty', 'Diff', 'ease', 'easiest', 'eas']
+_____Prompt 2, component: 22_pre_____
+['easy', 'easier', 'difficult', 'impossible', 'easiest', 'ease', 'diff', 'difficulty', 'Diff', 'easily']
+_____Prompt 2, component: 22_mid_____
+['easy', 'easier', 'easiest', 'ease', 'impossible', 'difficult', 'diff', 'easily', 'Diff', 'difficulty']
+_____Prompt 2, component: 23_pre_____
+['easy', 'easier', 'impossible', 'ease', 'easiest', 'difficult', 'diff', 'easily', 'Diff', 'eas']
+_____Prompt 2, component: 23_mid_____
+['easy', 'easier', 'impossible', 'easiest', 'ease', 'difficult', 'diff', 'easily', 'Diff', 'eas']
+_____Prompt 2, component: 24_pre_____
+['easy', 'easier', 'ease', 'effort', 'easiest', 'impossible', 'easily', 'eas', 'fá', 'difficult']
+_____Prompt 2, component: 24_mid_____
+['easy', 'easier', 'effort', 'ease', 'impossible', 'easiest', 'easily', 'simple', 'fá', 'eas']
+_____Prompt 2, component: 25_pre_____
+['easy', 'easier', 'effort', 'ease', 'easiest', 'impossible', 'simple', 'easily', 'fá', 'eas']
+_____Prompt 2, component: 25_mid_____
+['easy', 'easier', 'effort', 'easiest', 'ease', 'impossible', 'simple', 'easily', 'fá', 'eas']
+_____Prompt 2, component: 26_pre_____
+['easy', 'easier', 'effort', 'easiest', 'ease', 'impossible', 'simple', 'easily', 'fá', 'eas']
+_____Prompt 2, component: 26_mid_____
+['easy', 'easier', 'easiest', 'ease', 'effort', 'impossible', 'simple', 'easily', 'fá', 'simple']
+_____Prompt 2, component: 27_pre_____
+['easy', 'easier', 'easiest', 'effort', 'impossible', 'ease', 'simple', 'easily', 'Kontrola', 'fá']
+_____Prompt 2, component: 27_mid_____
+['easy', 'easier', 'easiest', 'effort', 'impossible', 'simple', 'ease', 'easily', 'Kontrola', 'fá']
+_____Prompt 2, component: 28_pre_____
+['easy', 'easier', 'easiest', 'simple', 'easily', 'effort', 'impossible', 'ease', 'straightforward', 'simple']
+_____Prompt 2, component: 28_mid_____
+['easy', 'easier', 'easiest', 'simple', 'impossible', 'effort', 'easily', 'ease', 'straightforward', 'simple']
+_____Prompt 2, component: 29_pre_____
+['easy', 'easier', 'impossible', 'effort', 'easily', 'easiest', 'challeng', 'ease', 'simple', 'eas']
+_____Prompt 2, component: 29_mid_____
+['easy', 'impossible', 'easier', 'effort', 'easiest', 'easily', 'challeng', 'hard', 'ease', 'simple']
+_____Prompt 2, component: 30_pre_____
+['easy', 'impossible', 'effort', 'simple', 'challeng', 'hard', 'possible', 'easier', 'achiev', 'feas']
+_____Prompt 2, component: 30_mid_____
+['easy', 'impossible', 'effort', 'simple', 'challeng', 'hard', 'possible', 'easier', 'achiev', 'feas']
+_____Prompt 2, component: 31_pre_____
+['easy', 'simple', 'challeng', 'hard', '\n', 'impossible', 'E', 'not', 'possible', 'effort']
+_____Prompt 2, component: 31_mid_____
+['easy', 'simple', 'challeng', '\n', 'impossible', 'hard', 'possible', 'not', 'effort', 'E']
+_____Prompt 2, component: final_post_____
+['easy', 'impossible', 'simple', 'possible', 'difficult', 'not', 'hard', 'un', 'very', 'challeng']
+_________________________________________
+Prompt: ['</s>', '</s>', '</s>', '<s>', 'empir', 'ical', ':'] Answer: ['theoretical']
+_____Prompt 3, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 3, component: 0_mid_____
+['Архив', 'Außer', 'Bedeut', 'Censo', 'idense', 'Према', 'totalité', 'пута', 'berga', 'férences']
+_____Prompt 3, component: 1_pre_____
+['Архив', 'пута', 'Portail', 'Kontrola', 'archivi', 'idense', '瀬', 'sterd', 'embros', 'konn']
+_____Prompt 3, component: 1_mid_____
+['<s>', 'Portail', 'Архив', 'Außer', 'Хронологија', 'idense', 'Bedeut', 'archivi', 'Unterscheidung', 'prüfe']
+_____Prompt 3, component: 2_pre_____
+['<s>', 'Außer', 'idense', 'Bedeut', 'Portail', 'penas', 'berga', 'Hinweis', 'prüfe', 'sterd']
+_____Prompt 3, component: 2_mid_____
+['Bedeut', 'idense', '<s>', 'penas', 'prüfe', 'Hinweis', 'hina', 'entferne', 'arie', 'Stan']
+_____Prompt 3, component: 3_pre_____
+['Bedeut', 'hina', 'idense', 'lär', 'ppi', 'Hinweis', 'Außer', 'sterd', 'maste', 'arie']
+_____Prompt 3, component: 3_mid_____
+['Bedeut', 'hina', 'idense', 'Außer', 'Hinweis', 'lär', 'Einzeln', 'maste', 'ῆ', 'otta']
+_____Prompt 3, component: 4_pre_____
+['Bedeut', 'Außer', 'iras', 'Hinweis', 'meaning', 'hina', 'abei', 'lär', '̄', 'arie']
+_____Prompt 3, component: 4_mid_____
+['meaning', 'hina', 'Bedeut', 'Außer', 'iras', 'agt', 'Hinweis', 'Wil', 'èmes', 'arie']
+_____Prompt 3, component: 5_pre_____
+['Bedeut', 'Hinweis', 'meaning', 'èmes', 'hina', 'actually', 'lär', 'Außer', 'iras', 'Frederick']
+_____Prompt 3, component: 5_mid_____
+['Bedeut', 'meaning', 'hina', 'meister', 'Gust', 'Außer', 'ello', 'ˈ', 'mean', 'ста']
+_____Prompt 3, component: 6_pre_____
+['dzie', '↔', 'Toggle', 'огра', 'invece', 'alet', 'ask', 'Rés', 'шов', 'тера']
+_____Prompt 3, component: 6_mid_____
+['↔', 'Toggle', 'alet', 'dzie', 'огра', 'antal', 'ask', 'ait', 'zett', 'TL']
+_____Prompt 3, component: 7_pre_____
+['↔', 'Toggle', 'alet', 'dzie', 'abet', 'огра', 'TD', 'antal', 'ask', 'TL']
+_____Prompt 3, component: 7_mid_____
+['↔', 'Toggle', '<s>', 'ask', 'abet', 'dzie', 'legte', 'ground', 'alet', 'AX']
+_____Prompt 3, component: 8_pre_____
+['↔', 'Toggle', 'ask', '<s>', 'abet', 'ós', 'ground', 'alet', 'legte', 'abe']
+_____Prompt 3, component: 8_mid_____
+['Toggle', '↔', '<s>', 'ask', 'ground', 'ós', 'alet', 'legte', 'abet', '-+']
+_____Prompt 3, component: 9_pre_____
+['<s>', 'Toggle', '↔', 'ós', 'örd', 'legte', 'abei', 'AND', 'longitud', 'alet']
+_____Prompt 3, component: 9_mid_____
+['<s>', 'ós', 'Toggle', 'örd', 'legte', 'abei', '↔', '-+', 'Dres', 'longitud']
+_____Prompt 3, component: 10_pre_____
+['<s>', 'abei', 'ós', 'Toggle', 'legte', 'aze', 'hinaus', 'örd', 'üll', 'ˈ']
+_____Prompt 3, component: 10_mid_____
+['<s>', 'abei', 'ós', 'Toggle', 'legte', 'ˈ', 'aze', 'üll', 'hinaus', 'Хронологија']
+_____Prompt 3, component: 11_pre_____
+['<s>', 'ós', 'abei', 'Toggle', 'Хронологија', 'meaning', 'legte', 'mb', 'LIM', 'Pit']
+_____Prompt 3, component: 11_mid_____
+['<s>', 'abei', 'ós', 'Toggle', 'meaning', 'andbox', 'Pit', 'Ring', 'legte', 'Cic']
+_____Prompt 3, component: 12_pre_____
+['Хронологија', 'abei', '<s>', 'Toggle', 'hinaus', 'ós', 'meaning', 'Pit', '╔', 'datei']
+_____Prompt 3, component: 12_mid_____
+['Хронологија', 'abei', 'hinaus', 'Toggle', '<s>', 'ós', 'Pit', 'Ring', 'meaning', 'datei']
+_____Prompt 3, component: 13_pre_____
+['Хронологија', '<s>', 'pez', 'Ring', 'penas', 'Lit', 'hinaus', 'apa', '·', 'Pit']
+_____Prompt 3, component: 13_mid_____
+['Хронологија', 'pez', 'Bedeut', 'penas', 'Ring', 'hinaus', '<s>', 'ˈ', 'Lit', 'zvuky']
+_____Prompt 3, component: 14_pre_____
+['Bedeut', 'Unterscheidung', 'Kontrola', 'hinaus', 'Ring', 'erh', 'Хронологија', '소', 'ˈ', 'ѝ']
+_____Prompt 3, component: 14_mid_____
+['Bedeut', 'Хронологија', 'ˈ', 'rob', 'Kontrola', 'Licencia', '·', 'widet', 'ѝ', 'erh']
+_____Prompt 3, component: 15_pre_____
+['Хронологија', 'Licencia', 'rob', 'ˈ', 'fir', 'penas', '유', 'empor', 'disambiguation', 'agn']
+_____Prompt 3, component: 15_mid_____
+['Хронологија', 'rob', 'widet', 'ground', 'fir', 'ˈ', 'penas', 'Directory', 'Martí', 'Licencia']
+_____Prompt 3, component: 16_pre_____
+['widet', 'Хронологија', 'ˈ', '·', 'ѫ', 'disambiguation', 'rob', 'Licencia', 'Kontrola', 'character']
+_____Prompt 3, component: 16_mid_____
+['Хронологија', 'widet', '·', 'ˈ', 'disambiguation', 'rob', 'empor', 'ѫ', 'nitt', 'Þ']
+_____Prompt 3, component: 17_pre_____
+['ˈ', '·', 'widet', 'ˌ', 'Хронологија', 'Bedeut', 'meaning', 'disambiguation', 'empor', 'Martí']
+_____Prompt 3, component: 17_mid_____
+['ˈ', '·', 'ˌ', 'disambiguation', 'Хронологија', 'widet', 'Bedeut', 'meaning', 'iel', 'empor']
+_____Prompt 3, component: 18_pre_____
+['ˈ', 'ˌ', '·', 'Хронологија', 'lär', 'disambiguation', 'là', 'empor', 'widet', 'ogonal']
+_____Prompt 3, component: 18_mid_____
+['ˈ', 'ˌ', '·', 'lär', 'Хронологија', 'disambiguation', 'syn', 'là', 'Kontrola', 'ogonal']
+_____Prompt 3, component: 19_pre_____
+['ˈ', 'lär', 'ˌ', '·', 'Хронологија', 'disambiguation', 'syn', 'fact', 'telt', 'widet']
+_____Prompt 3, component: 19_mid_____
+['ˈ', 'ˌ', 'lär', 'disambiguation', 'Хронологија', '·', 'Martí', 'ogonal', 'experimental', 'là']
+_____Prompt 3, component: 20_pre_____
+['ˈ', 'ˌ', 'Хронологија', 'lär', 'Kontrola', 'disambiguation', 'experimental', '·', 'syn', 'ogonal']
+_____Prompt 3, component: 20_mid_____
+['ˈ', 'Хронологија', 'ˌ', 'lär', 'Kontrola', 'experimental', 'empir', 'empor', 'experiment', 'disambiguation']
+_____Prompt 3, component: 21_pre_____
+['Хронологија', 'ˈ', 'experimental', 'Kontrola', 'lär', 'ˌ', 'empir', 'perimental', 'testing', 'experiment']
+_____Prompt 3, component: 21_mid_____
+['Хронологија', 'experimental', 'ˈ', 'Kontrola', 'lär', 'empir', 'ˌ', 'perimental', 'testing', 'trial']
+_____Prompt 3, component: 22_pre_____
+['Хронологија', 'experimental', 'Kontrola', 'empir', 'ˈ', 'lär', 'experiment', 'perimental', 'ˌ', 'experiments']
+_____Prompt 3, component: 22_mid_____
+['experimental', 'empir', 'experiment', 'perimental', 'experiments', 'Хронологија', 'Emp', 'lär', 'practical', 'Kontrola']
+_____Prompt 3, component: 23_pre_____
+['experimental', 'empir', 'subject', 'perimental', 'Emp', 'experiment', 'emp', 'Emp', 'Хронологија', 'Subject']
+_____Prompt 3, component: 23_mid_____
+['experimental', 'empir', 'perimental', 'subject', 'experiment', 'emp', 'Emp', 'Emp', 'practical', 'induct']
+_____Prompt 3, component: 24_pre_____
+['experimental', 'empir', 'Emp', 'emp', 'Emp', 'induct', 'practical', 'ded', 'perimental', 'subject']
+_____Prompt 3, component: 24_mid_____
+['experimental', 'empir', 'Emp', 'emp', 'Emp', 'induct', 'practical', 'ded', 'perimental', 'subject']
+_____Prompt 3, component: 25_pre_____
+['experimental', 'empir', 'Emp', 'induct', 'ded', 'Emp', 'emp', 'perimental', 'subject', 'practical']
+_____Prompt 3, component: 25_mid_____
+['experimental', 'empir', 'ded', 'induct', 'Emp', 'Emp', 'emp', 'practical', 'subject', 'perimental']
+_____Prompt 3, component: 26_pre_____
+['emp', 'Emp', 'experimental', 'Emp', 'ded', 'empir', 'induct', 'exper', 'perimental', 'practical']
+_____Prompt 3, component: 26_mid_____
+['emp', 'Emp', 'Emp', 'ded', 'experimental', 'empir', 'induct', 'Хронологија', 'practical', 'exper']
+_____Prompt 3, component: 27_pre_____
+['Emp', 'emp', 'Emp', 'ded', 'experimental', 'induct', 'empir', 'fact', 'Хронологија', 'exper']
+_____Prompt 3, component: 27_mid_____
+['emp', 'Emp', 'Emp', 'ded', 'experimental', 'induct', 'fact', 'exper', 'Хронологија', 'empir']
+_____Prompt 3, component: 28_pre_____
+['ded', 'experimental', 'induct', 'exper', 'fact', 'emp', 'Emp', 'Kontrola', 'Emp', 'qual']
+_____Prompt 3, component: 28_mid_____
+['ded', 'experimental', 'induct', 'exper', 'fact', 'emp', 'Emp', 'Kontrola', 'Emp', 'Хронологија']
+_____Prompt 3, component: 29_pre_____
+['experimental', 'induct', 'exper', 'ded', 'fact', 'Emp', 'practical', 'emp', 'Emp', 'theoretical']
+_____Prompt 3, component: 29_mid_____
+['induct', 'experimental', 'ded', 'exper', 'fact', 'practical', 'Emp', 'spec', 'theoretical', 'ground']
+_____Prompt 3, component: 30_pre_____
+['induct', 'exper', 'fact', 'experimental', 'ded', 'spec', 'practical', 'ground', 'theoretical', 'ax']
+_____Prompt 3, component: 30_mid_____
+['induct', 'fact', 'exper', 'experimental', 'ded', 'spec', 'an', 'ax', 'practical', 'ground']
+_____Prompt 3, component: 31_pre_____
+['an', 'fact', 'exper', 'induct', 'based', 'f', '\n', 'ad', 'experimental', 'ded']
+_____Prompt 3, component: 31_mid_____
+['an', 'induct', 'fact', 'exper', 'based', '\n', 'experimental', 'f', 'ad', 'ded']
+_____Prompt 3, component: final_post_____
+['theoretical', 'experimental', 'empir', 'an', 'practical', 'fact', '\n', 'rational', 'exper', 'scientific']
+_________________________________________
+Prompt: ['</s>', '</s>', '</s>', '</s>', '<s>', 'rapid', ':'] Answer: ['slow']
+_____Prompt 4, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 4, component: 0_mid_____
+['Архив', 'Censo', 'Außer', 'Bedeut', 'burgo', 'idense', '雅', 'Хронологија', 'totalité', 'berga']
+_____Prompt 4, component: 1_pre_____
+['Архив', 'Portail', 'пута', 'Kontrola', 'archivi', '瀬', 'idense', '雅', 'Хронологија', 'berga']
+_____Prompt 4, component: 1_mid_____
+['<s>', 'Außer', 'Хронологија', 'Bedeut', 'Portail', 'Unterscheidung', 'Архив', 'Hinweis', 'idense', 'ță']
+_____Prompt 4, component: 2_pre_____
+['Bedeut', '<s>', 'Außer', 'idense', 'berga', 'Хронологија', 'ță', 'prüfe', 'Hinweis', 'Kontrola']
+_____Prompt 4, component: 2_mid_____
+['Bedeut', 'Hinweis', 'Außer', 'Begriffe', 'lär', 'berga', '�', 'totalité', 'nth', 'idense']
+_____Prompt 4, component: 3_pre_____
+['Bedeut', 'lär', 'Hinweis', 'Begriffe', 'Außer', 'Einzeln', 'haft', 'demselben', 'berga', 'insgesamt']
+_____Prompt 4, component: 3_mid_____
+['Bedeut', 'Hinweis', 'lär', 'Außer', 'Begriffe', 'Einzeln', 'bore', 'insgesamt', 'haft', 'legte']
+_____Prompt 4, component: 4_pre_____
+['Außer', 'Bedeut', 'meaning', 'Ét', 'lär', 'pit', 'pit', '黒', 'arie', 'orten']
+_____Prompt 4, component: 4_mid_____
+['Außer', 'meaning', 'lär', '̄', 'egg', 'Bedeut', 'orten', 'cub', 'interpre', 'Ét']
+_____Prompt 4, component: 5_pre_____
+['Außer', 'Bedeut', 'pit', 'egg', 'lär', 'actually', 'Hinweis', 'meaning', 'Holland', 'arie']
+_____Prompt 4, component: 5_mid_____
+['Außer', 'Bedeut', 'pit', 'search', 'searches', 'abei', 'Search', 'pit', 'lär', 'meaning']
+_____Prompt 4, component: 6_pre_____
+['↔', 'dzie', 'Toggle', 'огра', 'invece', 'TL', 'шов', 'ask', 'PASS', 'kwiet']
+_____Prompt 4, component: 6_mid_____
+['↔', 'TL', 'Toggle', 'огра', 'kwiet', 'тура', 'abet', 'шов', 'dzie', 'AX']
+_____Prompt 4, component: 7_pre_____
+['↔', 'TL', 'Toggle', 'kwiet', 'тура', 'abet', 'AX', 'огра', 'dzie', 'AF']
+_____Prompt 4, component: 7_mid_____
+['↔', 'kwiet', 'TL', 'abet', 'sierp', 'Toggle', 'Außer', 'uto', 'île', 'мец']
+_____Prompt 4, component: 8_pre_____
+['↔', 'kwiet', 'abet', '❯', 'PASS', 'Toggle', 'sierp', 'ask', 'AX', 'огра']
+_____Prompt 4, component: 8_mid_____
+['↔', '❯', 'kwiet', 'abet', 'Toggle', '<s>', 'огра', 'PASS', 'sierp', 'legte']
+_____Prompt 4, component: 9_pre_____
+['↔', '❯', 'kwiet', 'sierp', 'legte', 'abet', 'PASS', 'Toggle', 'AD', 'hinaus']
+_____Prompt 4, component: 9_mid_____
+['↔', 'kwiet', 'sierp', 'PASS', 'uta', 'île', 'legte', 'AD', 'hinaus', '<s>']
+_____Prompt 4, component: 10_pre_____
+['↔', 'abei', 'kwiet', 'ask', 'hinaus', 'legte', 'lek', 'uta', 'uto', 'AD']
+_____Prompt 4, component: 10_mid_____
+['hinaus', 'abei', 'ˈ', '↔', 'kwiet', 'legte', 'ask', 'abet', '序', 'lek']
+_____Prompt 4, component: 11_pre_____
+['lek', 'abei', 'meaning', '序', 'ós', 'ˈ', 'спорт', 'ξ', 'abet', '<s>']
+_____Prompt 4, component: 11_mid_____
+['lek', 'abei', 'meaning', 'ˈ', 'abet', 'PA', '标', 'toe', 'спорт', '·']
+_____Prompt 4, component: 12_pre_____
+['abei', '序', '·', '้', 'PA', 'ˈ', 'lek', '标', 'abet', 'AND']
+_____Prompt 4, component: 12_mid_____
+['序', 'abei', 'ˈ', '·', 'toe', '้', 'abet', 'AND', '标', 'meaning']
+_____Prompt 4, component: 13_pre_____
+['序', '้', '·', 'ˈ', 'AND', 'toe', 'ab', 'ly', 'kap', 'somewhere']
+_____Prompt 4, component: 13_mid_____
+['序', 'ˈ', '้', '·', 'toe', 'abei', 'AND', 'kap', 'TAG', 'Einzel']
+_____Prompt 4, component: 14_pre_____
+['序', 'ando', 'nar', 'TAG', '้', 'ˈ', 'toe', 'fir', '·', 'ly']
+_____Prompt 4, component: 14_mid_____
+['序', 'ˈ', 'ando', '·', 'ly', '้', 'TAG', 'io', 'toe', 'abet']
+_____Prompt 4, component: 15_pre_____
+['ˈ', '유', '·', '序', 'пове', 'ly', 'abet', 'agn', 'TAG', 'nar']
+_____Prompt 4, component: 15_mid_____
+['ˈ', 'fast', 'speed', 'empor', 'fir', 'disambiguation', 'slow', 'abet', '유', '速']
+_____Prompt 4, component: 16_pre_____
+['·', 'ˈ', 'disambiguation', 'Kap', 'slow', 'fir', 'ós', 'fast', 'pin', '유']
+_____Prompt 4, component: 16_mid_____
+['·', 'slow', 'ˈ', 'slower', 'disambiguation', 'Kap', 'ym', 'pin', 'medium', '序']
+_____Prompt 4, component: 17_pre_____
+['ˈ', '·', 'slow', 'speed', 'quick', 'tempo', 'slower', 'slow', 'pin', 'TAG']
+_____Prompt 4, component: 17_mid_____
+['ˈ', 'speed', 'slow', '·', 'quick', 'fast', '速', 'tempo', 'slow', 'TAG']
+_____Prompt 4, component: 18_pre_____
+['ˈ', '·', 'speed', 'slow', 'quick', 'disambiguation', 'fast', 'ós', '速', 'Kap']
+_____Prompt 4, component: 18_mid_____
+['ˈ', 'slow', '·', 'speed', 'fast', 'quick', 'disambiguation', 'slow', 'Kap', 'uclide']
+_____Prompt 4, component: 19_pre_____
+['ˈ', 'slow', 'speed', 'slow', 'tempo', 'fast', 'quick', '·', 'disambiguation', '速']
+_____Prompt 4, component: 19_mid_____
+['ˈ', 'slow', 'speed', 'fast', 'quick', '·', 'disambiguation', 'tempo', 'slow', 'response']
+_____Prompt 4, component: 20_pre_____
+['ˈ', 'slow', 'quick', 'fast', '·', 'disambiguation', 'Ét', 'speed', 'slow', 'tempo']
+_____Prompt 4, component: 20_mid_____
+['speed', 'fast', 'quick', 'slow', '速', 'slow', 'rapid', 'faster', 'fast', 'rapide']
+_____Prompt 4, component: 21_pre_____
+['slow', 'slow', 'fast', 'speed', '速', 'quick', 'slower', 'faster', 'rapid', 'fast']
+_____Prompt 4, component: 21_mid_____
+['slow', 'slow', 'speed', 'fast', '速', 'rapid', 'quick', 'slower', 'faster', 'Rap']
+_____Prompt 4, component: 22_pre_____
+['slow', 'slow', 'rapid', 'fast', 'quick', '速', 'speed', 'slower', 'Rap', 'faster']
+_____Prompt 4, component: 22_mid_____
+['slow', 'rapid', 'slow', 'fast', 'quick', '速', 'Rap', 'speed', 'slower', 'rapide']
+_____Prompt 4, component: 23_pre_____
+['slow', 'rapid', 'quick', 'Rap', 'slow', 'ˈ', 'fast', 'rap', 'quick', 'Kontrola']
+_____Prompt 4, component: 23_mid_____
+['slow', 'rapid', 'Rap', 'slow', 'quick', 'ˈ', 'rap', 'fast', 'gla', 'rap']
+_____Prompt 4, component: 24_pre_____
+['slow', 'slow', 'rapid', 'Rap', 'quick', 'ˈ', 'fast', 'rap', 'slower', 'Kontrola']
+_____Prompt 4, component: 24_mid_____
+['slow', 'slow', 'rapid', 'Rap', 'quick', 'ˈ', 'fast', 'gla', 'slower', 'Kontrola']
+_____Prompt 4, component: 25_pre_____
+['slow', 'slow', 'rapid', 'Rap', 'quick', 'fast', 'gla', 'rap', 'ˈ', 'rap']
+_____Prompt 4, component: 25_mid_____
+['slow', 'slow', 'rapid', 'Rap', 'quick', 'fast', 'gla', 'rap', 'ˈ', 'rap']
+_____Prompt 4, component: 26_pre_____
+['slow', 'slow', 'rapid', 'Rap', 'quick', 'fast', 'gla', 'rap', 'rap', 'Kontrola']
+_____Prompt 4, component: 26_mid_____
+['slow', 'slow', 'quick', 'rapid', 'fast', 'gla', 'ˈ', 'Kontrola', 'Rap', 'slower']
+_____Prompt 4, component: 27_pre_____
+['slow', 'quick', 'slow', 'fast', 'rapid', 'gla', 'quick', 'Kontrola', 'Rap', 'ˈ']
+_____Prompt 4, component: 27_mid_____
+['slow', 'quick', 'slow', 'fast', 'rapid', 'gla', 'Kontrola', 'quick', 'ˈ', 'slower']
+_____Prompt 4, component: 28_pre_____
+['slow', 'slow', 'quick', 'fast', 'gla', 'rapid', 'slower', 'ˈ', 'quick', 'Kontrola']
+_____Prompt 4, component: 28_mid_____
+['slow', 'quick', 'slow', 'fast', 'rapid', 'slower', 'quick', 'Rap', 'gla', 'swift']
+_____Prompt 4, component: 29_pre_____
+['slow', 'slow', 'quick', 'fast', 'rapid', 'slower', 'Rap', 'gla', 'swift', 'response']
+_____Prompt 4, component: 29_mid_____
+['slow', 'slow', 'fast', 'quick', 'rapid', 'slower', 'Rap', 'swift', 'gla', 'response']
+_____Prompt 4, component: 30_pre_____
+['slow', 'fast', 'slow', 'quick', 'rapid', 'Rap', 'grad', 'slower', 'response', 'gla']
+_____Prompt 4, component: 30_mid_____
+['slow', 'fast', 'slow', 'quick', 'rapid', 'Rap', 'response', 'grad', 'slower', 'Grad']
+_____Prompt 4, component: 31_pre_____
+['slow', 'fast', 'quick', '\n', 'slow', '', 'The', 'S', 'in', 'the']
+_____Prompt 4, component: 31_mid_____
+['slow', 'fast', 'quick', '\n', '', 'slow', 'The', 'in', 'rapid', 'the']
+_____Prompt 4, component: final_post_____
+['slow', 'fast', 'rapid', 'quick', '', '\n', 'swift', 'un', 'response', 'in']
+_________________________________________
+Prompt: ['</s>', '</s>', '</s>', '</s>', '<s>', 'wrong', ':'] Answer: ['right']
+_____Prompt 5, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 5, component: 0_mid_____
+['Архив', 'Außer', 'Censo', 'Bedeut', 'idense', 'totalité', 'Хронологија', 'пута', '雅', 'berga']
+_____Prompt 5, component: 1_pre_____
+['Архив', 'Portail', 'пута', 'Kontrola', 'archivi', '瀬', 'idense', '雅', 'Хронологија', 'embros']
+_____Prompt 5, component: 1_mid_____
+['<s>', 'Portail', 'Хронологија', 'Kontrola', 'Bedeut', 'penas', 'Außer', 'embros', 'Hinweis', 'Архив']
+_____Prompt 5, component: 2_pre_____
+['<s>', 'Außer', 'Bedeut', 'penas', 'Kontrola', 'idense', 'prüfe', 'demselben', 'Portail', 'usammen']
+_____Prompt 5, component: 2_mid_____
+['Einzeln', 'Bedeut', 'Hinweis', 'hina', 'demselben', 'Ét', '<s>', 'Begriffe', 'ǒ', 'nth']
+_____Prompt 5, component: 3_pre_____
+['Bedeut', 'Einzeln', 'conde', 'Ét', 'Begriffe', 'lär', 'Hinweis', 'hina', 'agt', 'eerd']
+_____Prompt 5, component: 3_mid_____
+['Bedeut', 'Einzeln', 'Ét', 'Begriffe', 'Hinweis', 'lär', 'conde', 'penas', 'hina', 'orten']
+_____Prompt 5, component: 4_pre_____
+['orten', 'lär', 'Ét', 'aur', 'Bedeut', 'Außer', 'Herbert', 'ready', 'conde', 'bundle']
+_____Prompt 5, component: 4_mid_____
+['Ét', 'aur', 'conde', 'Herbert', 'ready', 'orten', 'agt', 'ĩ', 'lär', 'aster']
+_____Prompt 5, component: 5_pre_____
+['шин', 'läu', 'èn', 'conde', 'otal', 'ombres', 'Hinweis', 'nahm', 'astro', 'bb']
+_____Prompt 5, component: 5_mid_____
+['шин', 'läu', 'èn', 'aster', 'éric', 'aur', 'Bedeut', 'gem', 'Mock', 'bb']
+_____Prompt 5, component: 6_pre_____
+['↔', 'dzie', 'шов', 'invece', 'Toggle', 'PASS', 'abe', 'pis', 'jön', 'kwiet']
+_____Prompt 5, component: 6_mid_____
+['↔', 'invece', 'Toggle', 'шов', 'dzie', 'jön', 'abe', 'directories', 'instead', 'hov']
+_____Prompt 5, component: 7_pre_____
+['↔', 'Toggle', 'jön', 'abe', 'dzie', 'kwiet', 'invece', 'PASS', '⁰', 'шов']
+_____Prompt 5, component: 7_mid_____
+['↔', 'abe', 'Toggle', 'ask', 'kwiet', 'jön', 'Ī', 'invece', '≠', 'ASC']
+_____Prompt 5, component: 8_pre_____
+['↔', 'abe', 'ask', 'instead', 'Toggle', 'kwiet', 'invece', 'None', 'PASS', 'jön']
+_____Prompt 5, component: 8_mid_____
+['↔', 'abe', 'Toggle', 'jön', 'ask', 'dzie', 'instead', 'kwiet', '❯', 'invece']
+_____Prompt 5, component: 9_pre_____
+['↔', 'abe', '❯', 'ask', 'Toggle', 'AND', 'AF', '·', '<s>', 'PASS']
+_____Prompt 5, component: 9_mid_____
+['↔', 'abe', '<s>', 'ask', 'AND', 'Toggle', 'PASS', 'AF', '·', 'directories']
+_____Prompt 5, component: 10_pre_____
+['abe', '↔', 'Toggle', 'AND', 'ask', '❯', '·', '<s>', 'AF', 'üll']
+_____Prompt 5, component: 10_mid_____
+['↔', 'abe', '·', 'Toggle', '<s>', 'üll', '❯', 'Bedeut', 'AND', 'ask']
+_____Prompt 5, component: 11_pre_____
+['·', 'ós', 'AB', '❯', 'AND', 'PASS', 'Toggle', 'abe', 'он', '↔']
+_____Prompt 5, component: 11_mid_____
+['·', 'abe', 'ós', 'AB', 'AND', 'phys', 'PASS', 'simply', '❯', 'Toggle']
+_____Prompt 5, component: 12_pre_____
+['·', 'PASS', '➜', '❯', 'ós', 'љ', 'Hend', '∙', 'phys', 'multi']
+_____Prompt 5, component: 12_mid_____
+['·', '❯', 'PASS', 'ˈ', '➜', 'Hend', 'phys', 'ós', 'љ', 'Хронологија']
+_____Prompt 5, component: 13_pre_____
+['·', '➜', 'igen', 'PN', 'ん', '❯', 'љ', 'penas', 'AND', 'ós']
+_____Prompt 5, component: 13_mid_____
+['·', '➜', 'penas', 'igen', 'assa', 'PN', 'ści', 'Bedeut', '\x91', 'ˈ']
+_____Prompt 5, component: 14_pre_____
+['➜', 'Ét', 'Ő', '序', '∙', '·', 'penas', 'aben', 'ści', 'ely']
+_____Prompt 5, component: 14_mid_____
+['Ő', '∙', 'wrong', '·', 'Ét', 'emente', 'interno', 'PN', 'penas', 'assa']
+_____Prompt 5, component: 15_pre_____
+['penas', '·', 'eben', '∙', 'ści', 'emente', 'Ét', 'že', 'Vir', '유']
+_____Prompt 5, component: 15_mid_____
+['penas', 'stoff', 'Ét', 'ści', 'PN', 'Außer', 'Ő', 'emente', 'OF', '·']
+_____Prompt 5, component: 16_pre_____
+['Ét', 'penas', '·', 'stoff', '者', '序', 'ben', 'Kal', 'brázky', 'aben']
+_____Prompt 5, component: 16_mid_____
+['wrong', 'penas', '·', 'stoff', 'rite', 'Ét', 'holm', '者', 'ˈ', '유']
+_____Prompt 5, component: 17_pre_____
+['ˈ', '·', 'Ét', 'wrong', 'penas', 'DS', 'stoff', 'widet', 'rite', 'OF']
+_____Prompt 5, component: 17_mid_____
+['wrong', 'wr', 'rong', 'rights', 'right', 'incorrect', 'rite', 'right', 'ˈ', 'Ét']
+_____Prompt 5, component: 18_pre_____
+['wrong', 'wr', 'rong', 'incorrect', 'ˈ', 'rite', 'right', 'Ét', '·', 'rights']
+_____Prompt 5, component: 18_mid_____
+['wrong', 'ˈ', 'wr', 'rong', 'right', 'incorrect', 'Ét', '·', 'rite', 'ang']
+_____Prompt 5, component: 19_pre_____
+['wrong', 'ˈ', 'Ét', 'right', 'rong', '·', 'incorrect', 'stoff', 'Kontrola', 'none']
+_____Prompt 5, component: 19_mid_____
+['wrong', 'right', 'correct', 'rong', 'incorrect', 'Ét', 'ˈ', 'wr', 'right', '·']
+_____Prompt 5, component: 20_pre_____
+['wrong', 'right', 'rong', 'Kontrola', 'correct', 'ˈ', 'Ét', 'incorrect', 'wr', 'right']
+_____Prompt 5, component: 20_mid_____
+['wrong', 'correct', 'right', 'incorrect', 'wr', 'rong', 'Correct', 'right', 'correct', 'correctly']
+_____Prompt 5, component: 21_pre_____
+['wrong', 'right', 'correct', 'wr', 'incorrect', 'Kontrola', 'rong', 'Correct', 'right', 'ˈ']
+_____Prompt 5, component: 21_mid_____
+['wrong', 'correct', 'right', 'incorrect', 'wr', 'Kontrola', 'Correct', 'rong', 'right', 'Right']
+_____Prompt 5, component: 22_pre_____
+['wrong', 'correct', 'right', 'Kontrola', 'wr', 'incorrect', 'Correct', 'rong', 'right', 'Хронологија']
+_____Prompt 5, component: 22_mid_____
+['wrong', 'right', 'correct', 'wr', 'Kontrola', 'right', 'incorrect', 'rights', 'Right', 'Right']
+_____Prompt 5, component: 23_pre_____
+['right', 'wrong', 'right', 'Right', 'Right', 'correct', 'rights', 'wr', '右', 'Kontrola']
+_____Prompt 5, component: 23_mid_____
+['right', 'wrong', 'right', 'Right', 'Right', 'correct', 'rights', 'wr', 'Kontrola', '右']
+_____Prompt 5, component: 24_pre_____
+['right', 'wrong', 'right', 'Right', 'Right', 'correct', 'rights', 'wr', '右', 'Kontrola']
+_____Prompt 5, component: 24_mid_____
+['right', 'wrong', 'right', 'Right', 'Right', 'correct', 'rights', 'wr', '右', 'Kontrola']
+_____Prompt 5, component: 25_pre_____
+['right', 'wrong', 'right', 'Right', 'wr', 'Right', 'correct', 'rights', 'incorrect', '右']
+_____Prompt 5, component: 25_mid_____
+['right', 'wrong', 'right', 'Right', 'wr', 'Right', 'correct', 'rights', 'incorrect', 'Kontrola']
+_____Prompt 5, component: 26_pre_____
+['right', 'wrong', 'right', 'Right', 'Right', 'wr', 'correct', 'rights', '右', 'Kontrola']
+_____Prompt 5, component: 26_mid_____
+['right', 'wrong', 'right', 'Right', 'Right', 'correct', 'wr', 'rights', 'incorrect', '右']
+_____Prompt 5, component: 27_pre_____
+['right', 'wrong', 'right', 'Right', 'Right', 'correct', 'wr', 'rights', 'Kontrola', '右']
+_____Prompt 5, component: 27_mid_____
+['right', 'wrong', 'right', 'Right', 'Right', 'correct', 'wr', 'rights', 'Kontrola', '右']
+_____Prompt 5, component: 28_pre_____
+['right', 'wrong', 'Right', 'right', 'Right', 'wr', 'correct', 'Kontrola', '右', 'rights']
+_____Prompt 5, component: 28_mid_____
+['right', 'wrong', 'Right', 'right', 'Right', 'wr', 'correct', 'Kontrola', 'incorrect', '右']
+_____Prompt 5, component: 29_pre_____
+['right', 'wrong', 'Right', 'correct', 'right', 'wr', 'Right', 'Kontrola', 'rights', 'incorrect']
+_____Prompt 5, component: 29_mid_____
+['right', 'wrong', 'Right', 'right', 'wr', 'correct', 'Right', 'Kontrola', 'rights', 'incorrect']
+_____Prompt 5, component: 30_pre_____
+['right', 'wrong', 'Right', 'right', 'wr', 'correct', 'Right', 'rights', 'incorrect', 'Kontrola']
+_____Prompt 5, component: 30_mid_____
+['right', 'wrong', 'Right', 'right', 'rights', 'Right', 'correct', 'Write', 'wr', 'Kontrola']
+_____Prompt 5, component: 31_pre_____
+['right', 'Right', 'W', 'right', '\n', 'The', 'A', 'it', 'the', 'I']
+_____Prompt 5, component: 31_mid_____
+['right', 'Right', 'right', '\n', 'W', 'I', 'The', 'A', 'the', 'it']
+_____Prompt 5, component: final_post_____
+['right', 'wrong', 'the', 'not', 'a', 'it', '\n', 'I', 'The', 'correct']
+_________________________________________
+Prompt: ['</s>', '</s>', '</s>', '<s>', 'sec', 'ular', ':'] Answer: ['religious']
+_____Prompt 6, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 6, component: 0_mid_____
+['Außer', 'Архив', 'Bedeut', 'idense', 'Censo', 'пута', 'Хронологија', 'Према', 'berga', 'totalité']
+_____Prompt 6, component: 1_pre_____
+['Архив', 'пута', 'Portail', 'Kontrola', 'archivi', 'embros', 'idense', '瀬', 'telt', 'sterd']
+_____Prompt 6, component: 1_mid_____
+['Außer', '<s>', 'Архив', 'Portail', 'Bedeut', 'Kontrola', 'Hinweis', 'Хронологија', 'ță', 'idense']
+_____Prompt 6, component: 2_pre_____
+['Außer', '<s>', 'Bedeut', 'idense', 'Portail', 'ță', 'Hinweis', 'prüfe', 'mbH', 'Kontrola']
+_____Prompt 6, component: 2_mid_____
+['Außer', 'Bedeut', 'Hinweis', '<s>', 'prüfe', 'idense', 'Portail', 'ță', 'Einzeln', 'sterd']
+_____Prompt 6, component: 3_pre_____
+['Außer', 'Bedeut', 'Einzeln', 'sterd', 'Hinweis', 'lär', 'iszt', 'prüfe', 'hina', 'nth']
+_____Prompt 6, component: 3_mid_____
+['Außer', 'Bedeut', 'Einzeln', 'Hinweis', 'penas', 'orten', 'lär', 'Ét', 'sterd', 'totalité']
+_____Prompt 6, component: 4_pre_____
+['Außer', 'Bedeut', 'Hinweis', 'iras', 'Einzeln', 'agt', 'abei', 'Ét', 'lär', 'orten']
+_____Prompt 6, component: 4_mid_____
+['Außer', 'Bedeut', 'Hinweis', 'iras', 'Ét', 'agt', 'orten', 'otal', 'collapse', 'Einzeln']
+_____Prompt 6, component: 5_pre_____
+['Bedeut', 'Außer', 'Hinweis', 'iras', 'wär', 'Ét', 'Einzeln', 'lär', 'Begriffe', '\u200a']
+_____Prompt 6, component: 5_mid_____
+['Bedeut', 'Außer', 'iras', 'sierp', 'Ét', 'éo', 'lär', 'Einzeln', 'meaning', 'nam']
+_____Prompt 6, component: 6_pre_____
+['↔', 'Toggle', 'dzie', 'invece', 'ask', 'шов', 'огра', 'тура', 'AX', 'alet']
+_____Prompt 6, component: 6_mid_____
+['Toggle', '↔', 'dzie', 'alet', 'TL', 'тура', 'ait', 'ск', 'kwiet', 'ML']
+_____Prompt 6, component: 7_pre_____
+['↔', 'Toggle', 'AX', 'dzie', 'TL', 'тура', 'alet', 'Ξ', 'TD', 'ML']
+_____Prompt 6, component: 7_mid_____
+['Toggle', '↔', 'TL', 'dzie', 'AX', 'Ξ', 'uto', 'ask', 'kwiet', 'ML']
+_____Prompt 6, component: 8_pre_____
+['Toggle', '↔', 'ask', 'None', 'AX', 'dzie', 'TL', '·', 'legte', '<s>']
+_____Prompt 6, component: 8_mid_____
+['Toggle', '↔', 'ask', '·', '<s>', 'None', 'dzie', 'TL', 'legte', 'AX']
+_____Prompt 6, component: 9_pre_____
+['Toggle', '↔', 'в', 'ós', 'legte', 'abei', '<s>', '·', 'advers', 'aze']
+_____Prompt 6, component: 9_mid_____
+['Toggle', '↔', 'ós', '<s>', 'abei', 'advers', 'legte', 'hinaus', 'örd', 'aze']
+_____Prompt 6, component: 10_pre_____
+['Toggle', 'abei', 'ós', '<s>', '↔', 'hinaus', 'legte', 'aze', 'üll', 'ole']
+_____Prompt 6, component: 10_mid_____
+['Toggle', 'abei', 'ós', '<s>', 'legte', 'hinaus', 'üll', '↔', '·', 'ˈ']
+_____Prompt 6, component: 11_pre_____
+['Toggle', 'abei', '<s>', 'legte', 'ós', 'raum', 'verband', '·', 'mb', 'trait']
+_____Prompt 6, component: 11_mid_____
+['abei', 'Toggle', '<s>', 'ós', 'legte', 'raum', '·', 'verband', 'Cic', 'trait']
+_____Prompt 6, component: 12_pre_____
+['abei', '·', 'Toggle', '<s>', 'meaning', 'icha', 'raum', 'trait', '标', 'ˈ']
+_____Prompt 6, component: 12_mid_____
+['abei', '·', 'ˈ', 'Toggle', '标', 'meaning', 'Lit', 'trait', 'mehrerer', 'raum']
+_____Prompt 6, component: 13_pre_____
+['·', 'Lit', 'raum', '<s>', 'pez', 'abei', '序', 'zvuky', 'mehrerer', '标']
+_____Prompt 6, component: 13_mid_____
+['pez', 'abei', 'Lit', '·', 'ˈ', 'icha', 'trait', 'verband', 'Toggle', 'raum']
+_____Prompt 6, component: 14_pre_____
+['序', 'Unterscheidung', 'Lit', '·', 'embed', 'pez', 'Bedeut', 'abei', '∙', 'ˈ']
+_____Prompt 6, component: 14_mid_____
+['序', 'ˈ', '舞', 'Lit', 'Unterscheidung', '·', 'embed', 'erh', 'Martí', 'rite']
+_____Prompt 6, component: 15_pre_____
+['Licencia', '舞', 'Хронологија', 'Vir', '序', 'že', 'abei', 'ˈ', 'fir', 'Front']
+_____Prompt 6, component: 15_mid_____
+['Licencia', 'non', '舞', 'porte', 'Vir', 'sec', 'Хронологија', 'ˈ', 'fir', 'mu']
+_____Prompt 6, component: 16_pre_____
+['Licencia', '舞', 'ˈ', 'non', 'Хронологија', 'Vir', '유', 'вати', 'porte', 'fir']
+_____Prompt 6, component: 16_mid_____
+['舞', 'non', 'ん', '·', 'meaning', 'Licencia', 'porte', 'ˈ', 'že', 'Vir']
+_____Prompt 6, component: 17_pre_____
+['ˈ', '·', 'non', 'meaning', 'ós', 'Ét', 'ˌ', 'ymi', '舞', 'ju']
+_____Prompt 6, component: 17_mid_____
+['ˈ', '·', 'meaning', 'СР', 'non', 'ós', 'ˌ', 'iel', 'Bedeut', 'adj']
+_____Prompt 6, component: 18_pre_____
+['ˈ', 'ˌ', '·', 'adj', 'Ét', 'non', 'ionales', 'meaning', 'Bedeut', 'character']
+_____Prompt 6, component: 18_mid_____
+['ˈ', 'religious', 'non', '·', 'rel', 'adj', 'ˌ', 'sec', 'religion', 'Ét']
+_____Prompt 6, component: 19_pre_____
+['ˈ', 'religious', 'Ét', 'pros', 'sec', 'ˌ', 'adj', 'widet', '·', '宗']
+_____Prompt 6, component: 19_mid_____
+['ˈ', 'sec', 'religious', 'sec', 'Sec', 'Ét', '·', 'ˌ', 'pros', 'adj']
+_____Prompt 6, component: 20_pre_____
+['ˈ', 'ˌ', 'sec', 'Ét', 'adj', 'Begriffe', 'religious', '·', 'Kontrola', 'non']
+_____Prompt 6, component: 20_mid_____
+['sec', 'ˈ', 'Sec', 'sec', 'ˌ', 'non', 'Sec', 'temporal', 'religious', '·']
+_____Prompt 6, component: 21_pre_____
+['sec', 'ˈ', 'Sec', 'sec', 'ˌ', 'non', 'Sec', 'temporal', 'religious', 'adj']
+_____Prompt 6, component: 21_mid_____
+['sec', 'sec', 'Sec', 'religious', 'ˈ', 'Sec', 'ˌ', 'temporal', '宗', 'non']
+_____Prompt 6, component: 22_pre_____
+['sec', 'sec', 'Sec', 'religious', 'Sec', 'ˈ', 'non', 'temporal', '宗', 'ˌ']
+_____Prompt 6, component: 22_mid_____
+['sec', 'sec', 'Sec', 'religious', 'non', 'Sec', 'temporal', 'ˈ', '宗', 'sect']
+_____Prompt 6, component: 23_pre_____
+['sec', 'sec', 'Sec', 'Sec', 'non', 'religious', 'temporal', 'sect', 'ˈ', '宗']
+_____Prompt 6, component: 23_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'secure', 'religious', 'temporal', 'sect', 'secured']
+_____Prompt 6, component: 24_pre_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'secure', 'temporal', 'sect', 'Non']
+_____Prompt 6, component: 24_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'secure', 'temporal', 'sect', 'Non']
+_____Prompt 6, component: 25_pre_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'secure', 'temporal', 'sect', 'rel']
+_____Prompt 6, component: 25_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'secure', 'temporal', 'sect', 'syn']
+_____Prompt 6, component: 26_pre_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'temporal', 'secure', 'religious', 'syn', 'sect']
+_____Prompt 6, component: 26_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'temporal', 'religious', 'secure', 'syn', 'rel']
+_____Prompt 6, component: 27_pre_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'temporal', 'religious', 'secure', 'mon', 'syn']
+_____Prompt 6, component: 27_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'temporal', 'secure', 'mon', 'syn']
+_____Prompt 6, component: 28_pre_____
+['sec', 'sec', 'Sec', 'Sec', 'non', 'religious', 'mon', 'temporal', 'syn', 'bel']
+_____Prompt 6, component: 28_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'mon', 'temporal', 'bel', 'secure']
+_____Prompt 6, component: 29_pre_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'temporal', 'mon', 'Non', 'secure']
+_____Prompt 6, component: 29_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'religious', 'temporal', 'mon', 'secure', 'Non']
+_____Prompt 6, component: 30_pre_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'mon', 'bel', 'Non', 'temporal', 'world']
+_____Prompt 6, component: 30_mid_____
+['sec', 'Sec', 'sec', 'Sec', 'non', 'mon', 'Non', 'bel', 'world', 'rel']
+_____Prompt 6, component: 31_pre_____
+['non', 'sec', 'Sec', 'sec', '', '\n', 'ir', 'mon', 'rel', 'The']
+_____Prompt 6, component: 31_mid_____
+['non', '\n', '', 'religious', 'rel', 'The', 'mon', 'Non', 'sacred', 'ir']
+_____Prompt 6, component: final_post_____
+['religious', 'non', 'sacred', 'spiritual', '', 'the', '\n', 'Christian', 'a', 'The']
+_________________________________________
+Prompt: ['</s>', '</s>', '</s>', '</s>', '<s>', 'disable', ':'] Answer: ['enable']
+_____Prompt 7, component: 0_pre_____
+['Portail', 'ensoort', 'weis', 'η', 'artifactId', 'lava', '~[', 'fatt', 'ivi', 'proc']
+_____Prompt 7, component: 0_mid_____
+['Архив', 'Censo', 'Außer', '雅', 'totalité', 'Bedeut', 'idense', 'férences', 'berga', 'äler']
+_____Prompt 7, component: 1_pre_____
+['Архив', 'пута', 'Portail', 'Kontrola', 'archivi', '雅', '瀬', 'idense', 'Хронологија', 'partiellement']
+_____Prompt 7, component: 1_mid_____
+['<s>', 'Portail', 'Архив', 'Хронологија', 'Bedeut', '雅', 'Hinweis', 'Unterscheidung', 'idense', 'totalité']
+_____Prompt 7, component: 2_pre_____
+['<s>', 'Bedeut', 'Außer', 'idense', 'Portail', '�', 'prüfe', 'Архив', '⁻', 'Hinweis']
+_____Prompt 7, component: 2_mid_____
+['Hinweis', 'Stan', '<s>', 'Portail', 'usammen', '{|', 'Einzeln', '�', '黒', 'ig']
+_____Prompt 7, component: 3_pre_____
+['Hinweis', 'Référence', 'ῆ', 'Einzeln', '黒', 'lär', 'Bedeut', 'Spr', 'rola', 'stan']
+_____Prompt 7, component: 3_mid_____
+['Hinweis', 'Einzeln', 'шин', '黒', 'Spr', 'Bedeut', 'lär', 'ῆ', 'abb', 'aster']
+_____Prompt 7, component: 4_pre_____
+['lär', 'Hinweis', 'ü', '黒', 'aster', 'ün', 'aur', 'irc', 'vä', 'Хронологија']
+_____Prompt 7, component: 4_mid_____
+['lär', 'Хронологија', 'Википеди', 'Hinweis', 'aur', 'aster', '黒', 'Spr', 'ün', 'рё']
+_____Prompt 7, component: 5_pre_____
+['шин', 'ün', 'Hinweis', 'trust', 'tele', 'Spr', 'NO', 'lär', 'fica', 'Pit']
+_____Prompt 7, component: 5_mid_____
+['шин', 'Spr', 'fica', 'lär', 'Pit', 'aux', 'icha', 'NO', 'DR', 'ph']
+_____Prompt 7, component: 6_pre_____
+['↔', 'dzie', 'шов', 'TL', 'AX', 'Википедии', 'lag', 'invece', 'огра', 'ymnasium']
+_____Prompt 7, component: 6_mid_____
+['↔', 'dzie', 'шов', 'AX', 'TL', 'TD', 'xl', 'Википедии', 'invece', 'lag']
+_____Prompt 7, component: 7_pre_____
+['↔', 'AX', 'TL', 'dzie', 'TD', 'шов', 'Toggle', 'ск', 'tó', 'Википедии']
+_____Prompt 7, component: 7_mid_____
+['↔', 'TL', 'AX', 'Toggle', 'шов', 'legte', 'TD', 'dzie', 'brázky', '산']
+_____Prompt 7, component: 8_pre_____
+['↔', 'TL', 'ask', '},{', 'AX', 'dzie', 'ós', 'Toggle', '<s>', 'ossa']
+_____Prompt 7, component: 8_mid_____
+['↔', '<s>', 'TL', 'Toggle', '},{', 'ossa', 'dzie', 'hinaus', 'аль', 'AX']
+_____Prompt 7, component: 9_pre_____
+['↔', 'TL', 'ossa', '},{', 'Toggle', 'ós', 'hinaus', 'üll', 'tó', 'TY']
+_____Prompt 7, component: 9_mid_____
+['↔', 'TL', 'üll', 'hinaus', 'ossa', 'ós', '<s>', 'legte', 'tó', 'Toggle']
+_____Prompt 7, component: 10_pre_____
+['üll', '↔', 'ós', 'abei', 'civile', 'hinaus', 'nitz', 'ossa', 'legte', 'став']
+_____Prompt 7, component: 10_mid_____
+['üll', '↔', 'abei', 'ós', 'hinaus', 'civile', 'legte', '<s>', 'ossa', 'став']
+_____Prompt 7, component: 11_pre_____
+['üll', 'abei', '↔', 'ós', 'civile', 'legte', 'вати', 'Lib', 'civ', 'head']
+_____Prompt 7, component: 11_mid_____
+['üll', 'abei', 'Lib', 'ós', 'civile', 'civ', '↔', 'head', 'legte', 'toe']
+_____Prompt 7, component: 12_pre_____
+['abei', 'üll', 'civile', '➜', 'Lib', 'ós', 'став', 'Spr', 'ˈ', 'вати']
+_____Prompt 7, component: 12_mid_____
+['ˈ', 'став', 'civile', 'üll', 'Spr', 'ós', 'abei', 'bro', 'Lib', 'toe']
+_____Prompt 7, component: 13_pre_____
+['ando', 'TL', 'став', 'civ', '·', '➜', 'Trib', 'ˈ', 'civile', 'trib']
+_____Prompt 7, component: 13_mid_____
+['TL', 'abei', 'став', 'ˈ', 'ando', 'pez', 'üll', 'civ', 'Lib', 'meaning']
+_____Prompt 7, component: 14_pre_____
+['TL', '➜', 'abei', 'pez', 'üll', 'ˈ', '·', 'ando', 'epen', 'вати']
+_____Prompt 7, component: 14_mid_____
+['➜', 'abei', 'ando', 'ˈ', 'Kontrola', 'epen', 'üll', 'ë', 'pez', 'TL']
+_____Prompt 7, component: 15_pre_____
+['Kontrola', 'abei', 'ˈ', 'pez', 'TL', 'Хронологија', '➜', 'civ', 'epen', '유']
+_____Prompt 7, component: 15_mid_____
+['abei', 'epen', 'ˈ', 'Kontrola', '유', 'civ', 'вати', 'від', 'üll', 'Britann']
+_____Prompt 7, component: 16_pre_____
+['유', 'Licencia', 'Kontrola', 'abei', 'ˈ', 'ѝ', 'là', 'вати', 'ben', 'Britann']
+_____Prompt 7, component: 16_mid_____
+['유', 'Licencia', 'civ', 'dn', '·', 'fram', 'Lib', 'disambiguation', 'là', 'abei']
+_____Prompt 7, component: 17_pre_____
+['Ét', '유', 'ˈ', 'là', 'Britann', 'ńskiego', 'DN', 'civ', 'dn', 'ѝ']
+_____Prompt 7, component: 17_mid_____
+['유', 'ńskiego', 'ables', 'disable', 'kil', 'DN', 'dn', 'civile', 'là', 'ˈ']
+_____Prompt 7, component: 18_pre_____
+['ables', 'disable', 'ˈ', 'dn', 'able', 'là', 'civile', 'active', 'ńskiego', 'rès']
+_____Prompt 7, component: 18_mid_____
+['fine', 'dn', 'able', 'ˈ', 'rola', 'ables', 'rès', 'active', 'commanded', 'là']
+_____Prompt 7, component: 19_pre_____
+['fine', 'ôt', 'Britann', 'dn', 'oem', 'aucoup', 'Ét', 'ˈ', 'active', 'medium']
+_____Prompt 7, component: 19_mid_____
+['fine', 'active', 'dn', 'ˈ', 'ables', 'oem', 'ôt', 'bara', 'medium', 'enabled']
+_____Prompt 7, component: 20_pre_____
+['active', 'fine', 'dn', 'enabled', 'ˈ', 'Active', 'activ', 'medium', 'oem', 'aucoup']
+_____Prompt 7, component: 20_mid_____
+['enable', 'enabled', 'enable', 'Enable', 'enables', 'enabled', 'disable', 'disabled', 'Enabled', 'disable']
+_____Prompt 7, component: 21_pre_____
+['enabled', 'enable', 'enable', 'Enable', 'enabled', 'enables', 'disable', 'disabled', 'Enabled', 'disable']
+_____Prompt 7, component: 21_mid_____
+['enabled', 'enable', 'enable', 'Enable', 'enabled', 'disable', 'enables', 'disabled', 'Enabled', 'disable']
+_____Prompt 7, component: 22_pre_____
+['enabled', 'enable', 'enable', 'Enable', 'enabled', 'enables', 'disable', 'disabled', 'Enabled', 'disable']
+_____Prompt 7, component: 22_mid_____
+['enabled', 'enable', 'enable', 'Enable', 'enabled', 'enables', 'disable', 'disabled', 'Enabled', 'disable']
+_____Prompt 7, component: 23_pre_____
+['enabled', 'enable', 'enable', 'Enable', 'enabled', 'enables', 'disable', 'disabled', 'Enabled', 'disable']
+_____Prompt 7, component: 23_mid_____
+['enabled', 'enable', 'enable', 'Enable', 'enabled', 'enables', 'disabled', 'disable', 'Enabled', 'disable']
+_____Prompt 7, component: 24_pre_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'disable', 'disabled', 'Enabled', 'disable']
+_____Prompt 7, component: 24_mid_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'disabled', 'disable', 'Enabled', 'Dis']
+_____Prompt 7, component: 25_pre_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'Enabled', 'disabled', 'disable', 'active']
+_____Prompt 7, component: 25_mid_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'Enabled', 'disabled', 'disable', 'active']
+_____Prompt 7, component: 26_pre_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'Enabled', 'disable', 'disabled', 'active']
+_____Prompt 7, component: 26_mid_____
+['enabled', 'enable', 'enable', 'Enable', 'enabled', 'enables', 'Enabled', 'disable', 'disabled', 'active']
+_____Prompt 7, component: 27_pre_____
+['enabled', 'enable', 'enable', 'enabled', 'Enable', 'enables', 'Enabled', 'disable', 'disabled', 'active']
+_____Prompt 7, component: 27_mid_____
+['enabled', 'enable', 'enable', 'enabled', 'Enable', 'enables', 'Enabled', 'disable', 'disabled', 'active']
+_____Prompt 7, component: 28_pre_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'Enabled', 'disable', 'En', 'active']
+_____Prompt 7, component: 28_mid_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'Enabled', 'disable', 'En', 'disabled']
+_____Prompt 7, component: 29_pre_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'En', 'Enabled', 'disable', 'active']
+_____Prompt 7, component: 29_mid_____
+['enable', 'enabled', 'enable', 'Enable', 'enabled', 'enables', 'En', 'Enabled', 'disable', 'active']
+_____Prompt 7, component: 30_pre_____
+['enable', 'enabled', 'enable', 'enabled', 'Enable', 'En', 'enables', 'true', 'Enabled', 'en']
+_____Prompt 7, component: 30_mid_____
+['enable', 'enabled', 'enable', 'enabled', 'Enable', 'En', 'enables', 'true', 'Enabled', 'active']
+_____Prompt 7, component: 31_pre_____
+['enable', 'enabled', 'enable', 'En', 'enabled', '\n', 'Enable', 'en', 'true', 'enables']
+_____Prompt 7, component: 31_mid_____
+['enable', 'enabled', 'enable', 'enabled', 'Enable', 'En', '\n', 'true', 'enables', 'en']
+_____Prompt 7, component: final_post_____
+['enable', 'enabled', 'enable', 'disable', '\n', 'true', '', 'enabled', 'allow', 'En']
+_________________________________________
